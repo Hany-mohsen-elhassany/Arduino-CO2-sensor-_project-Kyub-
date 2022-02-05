@@ -1,4 +1,4 @@
-# Arduino-CO2-sensor-_project-Kyub
+# Arduino_CO2 sensor (project-Kyub)
 (simple code for Arduino co2 sensor )
 
 
