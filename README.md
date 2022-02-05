@@ -8,7 +8,7 @@
 
 
   
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x_deS18koRk/0.jpg)](https://www.youtube.com/watch?v=x_deS18koRk)
+[![co2 sensor using Kyub](https://img.youtube.com/vi/nzgFx3IgOQs/0.jpg)](https://www.youtube.com/watch?v=nzgFx3IgOQs)
 
 
 
